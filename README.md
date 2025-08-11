@@ -1,3 +1,30 @@
+
+## zipalign & apksigner (Android build tools)
+<pre>
+  # Termux
+pkg install apksigner zipalign -y
+# Linux
+sudo apt install apksigner zipalign -y
+
+</pre>
+
+## apktool
+<pre>
+  # Termux
+pkg install apktool -y
+# Linux
+sudo apt install apktool -y
+
+</pre>
+
+## Java (JDK)
+<pre>
+  pkg install openjdk-17 -y      # di Termux
+# atau
+sudo apt install openjdk-17-jdk -y  # di Linux
+
+</pre>
+
 ## aggressive_patch_apk
 example:
 <pre>
