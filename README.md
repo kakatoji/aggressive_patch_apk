@@ -1,7 +1,7 @@
 
 ## zipalign & apksigner (Android build tools)
 <pre>
-  # Termux
+# Termux
 pkg install apksigner zipalign -y
 # Linux
 sudo apt install apksigner zipalign -y
@@ -10,7 +10,7 @@ sudo apt install apksigner zipalign -y
 
 ## apktool
 <pre>
-  # Termux
+# Termux
 pkg install apktool -y
 # Linux
 sudo apt install apktool -y
@@ -19,9 +19,10 @@ sudo apt install apktool -y
 
 ## Java (JDK)
 <pre>
-  pkg install openjdk-17 -y      # di Termux
-# atau
-sudo apt install openjdk-17-jdk -y  # di Linux
+# termux
+  pkg install openjdk-17 -y
+# linux
+sudo apt install openjdk-17-jdk -y 
 
 </pre>
 
